@@ -1,0 +1,29 @@
+{
+  "name": "ewancoder-angular-notify",
+  "version": "0.1.0-alpha.1",
+  "description": "Angular notify.",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc -p src -w",
+    "build": "rm -rf lib && tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewancoder/angular-notify"
+  },
+  "keywords": ["Angular", "Notify"],
+  "author": "ewancoder@gmail.com",
+  "bugs": {
+    "url": "https://github.com/ewancoder/angular-notify"
+  },
+  "homepage": "https://github.com/ewancoder/angular-notify#readme",
+  "dependencies": {
+    "@angular/core": "^2.4.4",
+    "rxjs": "^5.0.3",
+    "ewancoder-angular-logger": "^0.1.0-alpha.2"
+  },
+  "devDependencies": {
+    "typescript": "^2.1.5"
+  }
+}
