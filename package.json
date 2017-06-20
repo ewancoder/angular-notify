@@ -1,5 +1,5 @@
 {
-  "name": "ewancoder-angular-notify",
+  "name": "@ewancoder/angular-notify",
   "version": "0.7.0",
   "description": "Angular notify.",
   "license": "MIT",
